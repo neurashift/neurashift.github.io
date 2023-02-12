@@ -6,4 +6,4 @@ layout: page
 title: Homepage
 ---
 
-[Leadership book](/headandheart.html)
+[Leadership book](/01.html)
