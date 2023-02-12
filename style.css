@@ -1,0 +1,671 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
+.adcardhead {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 6%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10%;
+    page-break-before: always;
+    text-align: center;
+    text-indent: 0%
+    }
+.adcardtext {
+    display: block;
+    margin-bottom: 1%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-align: center;
+    text-indent: 0%
+    }
+.bold {
+    display: inline;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.bold1 {
+    display: inline;
+    font-weight: bold
+    }
+.box {
+    display: block;
+    margin-bottom: 4%;
+    margin-top: 4%
+    }
+.boxheada {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0%;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.boxtextcenter {
+    display: block;
+    margin-bottom: 0%;
+    margin-right: 5%;
+    margin-top: 0%;
+    text-align: center;
+    text-indent: 0%
+    }
+.brand {
+    display: block;
+    margin-bottom: 12%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 12%;
+    text-align: center;
+    text-indent: 0%
+    }
+.bulletlist {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 0%;
+    margin-left: 8%;
+    margin-right: 0;
+    margin-top: 0%
+    }
+.bulletlist1 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 4%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%
+    }
+.calibre {
+    -webkit-hyphens: none;
+    background-color: #FFF;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center
+    }
+.calibre1 {
+    text-decoration: none
+    }
+.calibre2 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre3 {
+    border-bottom-color: currentColor;
+    border-bottom-style: inset;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: inset;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: inset;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: inset;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em
+    }
+.calibre4 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre5 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre6 {
+    height: 100px;
+    width: 70px
+    }
+.centerimage {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-align: center;
+    text-indent: 0%
+    }
+.centerimage1 {
+    display: block;
+    margin-bottom: 3%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3%;
+    text-align: center;
+    text-indent: 0%
+    }
+.chapterhead {
+    display: block;
+    margin-bottom: 0%;
+    margin-top: 0%
+    }
+.chapterheada {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4%;
+    text-indent: 0%
+    }
+.chapterheada1 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.chapterheadb {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4%;
+    text-indent: 0%
+    }
+.chapterheadb1 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.chaptertitle {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 5%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10%;
+    page-break-before: always;
+    text-align: center;
+    text-indent: 0%
+    }
+.contentsentry {
+    display: block;
+    margin-bottom: 0%;
+    margin-top: 2%;
+    text-indent: -5%
+    }
+.contentsentry1 {
+    display: block;
+    margin-bottom: 0%;
+    margin-top: 4%;
+    text-indent: -5%
+    }
+.contentsentryname {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 5%;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: -5%
+    }
+.contentshead {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 12%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10%;
+    page-break-before: always;
+    text-align: center;
+    text-indent: 0%
+    }
+.contentsheada {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4%
+    }
+.copyrightpage {
+    display: block;
+    margin-top: 6%
+    }
+.copyrighttext {
+    display: block;
+    font-weight: normal;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3%;
+    text-align: center;
+    text-indent: 0%
+    }
+.copyrighttext1 {
+    display: block;
+    font-weight: normal;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-align: center;
+    text-indent: 0%
+    }
+.dedicationpage {
+    display: block;
+    margin-top: 15%
+    }
+.eb01imprint {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    margin-bottom: 4px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4px;
+    page-break-inside: avoid;
+    text-align: center;
+    text-indent: 0
+    }
+.eb01imprint_box {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-radius: 25px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 14%;
+    margin-right: 14%;
+    margin-top: 0%
+    }
+.endpagehead {
+    display: block;
+    font-size: 1.5em;
+    font-weight: normal;
+    line-height: 1.3em;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    page-break-after: avoid;
+    page-break-before: always;
+    text-align: center
+    }
+.endpagelogocontainer {
+    display: inline-block;
+    height: 15%;
+    margin-top: 35%;
+    text-align: center;
+    width: 100%
+    }
+.epubimage {
+    height: 100%;
+    width: auto
+    }
+.epubimage1 {
+    height: auto;
+    width: auto
+    }
+.extracttextnoindent {
+    display: block;
+    margin-bottom: 0%;
+    margin-right: 5%;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.frontmatterpage {
+    display: block
+    }
+.indexentry {
+    display: block;
+    font-weight: normal;
+    margin-bottom: 0%;
+    margin-left: 5%;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: -5%
+    }
+.indexentry1 {
+    display: block;
+    font-weight: normal;
+    margin-bottom: 0%;
+    margin-left: 10%;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: -5%
+    }
+.italic {
+    display: inline;
+    font-style: italic
+    }
+.listitem {
+    display: list-item;
+    margin-bottom: 0%;
+    margin-top: 0%
+    }
+.listitem1 {
+    display: list-item;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%
+    }
+.mobi {
+    display: none
+    }
+.ol-arabic {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 4%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%
+    }
+.para {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 5%
+    }
+.paranoindent {
+    display: block;
+    margin-bottom: 3%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.paranoindent1 {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.partnumber {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 3%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10%;
+    page-break-before: always;
+    text-align: center;
+    text-indent: 0%
+    }
+.parttitle {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 12%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-align: center;
+    text-indent: 0%
+    }
+.reviewpage {
+    display: block;
+    margin-bottom: 0%;
+    margin-top: 10%
+    }
+.reviewpagesource {
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 4%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.reviewpagetext {
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.smallcaps {
+    font-size: 0.75em
+    }
+.spacebreak {
+    display: block;
+    margin-bottom: 1%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1%;
+    text-align: center;
+    text-indent: 0%
+    }
+.table {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    font-size: 0.875em;
+    line-height: 1.2;
+    margin-bottom: 2%;
+    margin-top: 3%;
+    text-indent: 0
+    }
+.text {
+    -webkit-hyphens: none;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.top {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    text-align: inherit;
+    vertical-align: top;
+    width: 20%
+    }
+.top1 {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    text-align: inherit;
+    vertical-align: top;
+    width: 80%
+    }
+.top2 {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    text-align: inherit;
+    vertical-align: top;
+    width: 30%
+    }
+.top3 {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    text-align: inherit;
+    vertical-align: top;
+    width: 70%
+    }
+.top4 {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    text-align: inherit;
+    vertical-align: top;
+    width: 10%
+    }
+.top5 {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    text-align: inherit;
+    vertical-align: top;
+    width: 25%
+    }
+.top6 {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    text-align: inherit;
+    vertical-align: top;
+    width: 65%
+    }
+.unorderedlist {
+    display: block;
+    list-style-type: none;
+    margin-bottom: 0%;
+    margin-left: 5%;
+    margin-top: 0%;
+    text-indent: -5%
+    }
+.xrefurl {
+    color: blue;
+    display: inline
+    }
+

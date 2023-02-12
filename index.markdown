@@ -6,5 +6,4 @@ layout: page
 title: Homepage
 ---
 
-This is my homepage!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-![The Cure](/siteAssets/tc.jpg)
+[Leadership book](/thisBook.html)
