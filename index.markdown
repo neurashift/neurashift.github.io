@@ -6,4 +6,4 @@ layout: page
 title: Homepage
 ---
 
-[Leadership book](/thisBook.html)
+[Leadership book](/headandheart.html)
